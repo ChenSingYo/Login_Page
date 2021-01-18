@@ -11,8 +11,11 @@ simple sign-in page
 ## Prerequisites
 
 Node.js
+
 Express
+
 Mongodb + Robo 3T
+
 Mongoose
 
 ## **Getting Started**
@@ -73,9 +76,13 @@ password: 'iamironman'
 ## **Built With**
 
 Npm v7.0.15
+
 Node.js 14.15.1
+
 Nodemon 2.0.6
+
 Express 4.17.1
+
 Mongoose: 5.11.9
 
 ## Contributor
