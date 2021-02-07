@@ -2,7 +2,6 @@
 
 simple auth page
 
-https://user-images.githubusercontent.com/69234380/107142350-5399c100-6969-11eb-808a-82485a965d3d.mp4
 [Demo Video](https://user-images.githubusercontent.com/69234380/107142350-5399c100-6969-11eb-808a-82485a965d3d.mp4)
 
 ## **Features**
