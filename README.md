@@ -1,18 +1,23 @@
 ## Expense-Tracker
 
-simple sign-in page
+simple auth page
 
-[Demo Video](https://user-images.githubusercontent.com/69234380/104899867-56327780-59b6-11eb-89dd-33c041b43648.mp4)
+https://user-images.githubusercontent.com/69234380/107142350-5399c100-6969-11eb-808a-82485a965d3d.mp4
+[Demo Video](https://user-images.githubusercontent.com/69234380/107142350-5399c100-6969-11eb-808a-82485a965d3d.mp4)
 
 ## **Features**
 
 - checkout account and password
+- setting session, keep login status
+- logout
 
 ## Prerequisites
 
 Node.js
 
 Express
+
+Express-session
 
 Mongodb + Robo 3T
 
@@ -85,6 +90,7 @@ Express 4.17.1
 
 Mongoose: 5.11.9
 
+Express-session: 1.17.1
 ## Contributor
 
 [SingYo](https://github.com/ChenSingYo)
